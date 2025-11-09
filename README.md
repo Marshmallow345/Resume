@@ -59,8 +59,8 @@ ul{
   
   <hr>
   
-       <h2 id="Skills">Skills</h2>
-  <p id=Skillsp>I am good at HTML on codepen as it has simple features but still holds well. As for teamwork I might not do well at as I am good with others but I might be the last guy. So, I work better alone. For problem-solving I might need a little help when it comes to a very, very complex problem. However, I will get it done.</p>
+  <h2 id="Skills">Skills</h2>
+ <p id=Skillsp>I am good at HTML on codepen as it has simple features but still holds well. As for teamwork I might not do well at as I am good with others but I might be the last guy. So, I work better alone. For problem-solving I might need a little help when it comes to a very, very complex problem. However, I will get it done.</p>
   <hr>
   <h2 id="Career Goals Heading">Career Goals</h2>
   <ul id="Career Goals">
@@ -70,6 +70,5 @@ ul{
     <li>Writter</li>
   </ul>
   <hr>
-
 </body>
 </html>
