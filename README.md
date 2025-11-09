@@ -18,47 +18,35 @@
   margin-left: 20%;
   margin-right: 20%;
 }
-
 h1{
   text-align:center;
 }
 h2{
   text-align:center;
 }
-
 #Skills{
   text-align:center;
 }
-
 img{
   display: block;
    margin-right: auto;
    margin-left: auto;
   width: 50%;
-  
-}
-
+  }
 #Education{
   text-align:center;
 }
-
 #Skillsp{
   text-align:center;
 }
-
 ul{
   text-align:center;
-  
-}
-
+  }
 #bio{
   text-align:center;
 }
-
 #Career Goals{
   text-align:center;
-
-  
   </style>
 </head>
 <body>
